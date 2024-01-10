@@ -1,2 +1,2 @@
 # project1
-THis my first git 
+This my first git 
